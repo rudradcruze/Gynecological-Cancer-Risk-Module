@@ -145,7 +145,6 @@ Processed_Datasets/
 *.eps
 
 # Data and model files
-*.csv
 *.xlsx
 *.xls
 *.pkl
